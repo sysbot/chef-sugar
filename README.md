@@ -82,6 +82,10 @@ API
 - `sparc?`
 - `ppc64?`
 - `ppc64le?`
+- `powerpc?`
+- `power6?`
+- `power7?`
+- `power8?`
 
 #### Examples
 ```ruby
